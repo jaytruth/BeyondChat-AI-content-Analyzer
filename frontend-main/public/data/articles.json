@@ -1,0 +1,52 @@
+[
+  {
+    "id":1,
+    "title": "Chatbots Magic: Beginner’s Guidebook",
+    "link": "https://beyondchats.com/blogs/introduction-to-chatbots/",
+    "date": "December 5, 2023",
+    "author": "",
+    "content": "",
+    "updated_version": null,
+    "references": []
+  },
+  {
+    "id" :2,
+    "title": "7 ways a Live Chatbot transforms customer interaction",
+    "link": "https://beyondchats.com/blogs/live-chatbot/",
+    "date": "December 6, 2023",
+    "author": "",
+    "content": "",
+    "updated_version": null,
+    "references": []
+  },
+  {
+    "id" :3,
+    "title": "7 Clear Indicators Your Business Needs a Virtual Assistant",
+    "link": "https://beyondchats.com/blogs/virtual-assistant/",
+    "date": "December 7, 2023",
+    "author": "",
+    "content": "",
+    "updated_version": null,
+    "references": []
+  },
+  {
+    "id" :4,
+    "title": "10X Your Leads: How Chatbots Revolutionize Lead Generation",
+    "link": "https://beyondchats.com/blogs/lead-generation-chatbots/",
+    "date": "December 8, 2023",
+    "author": "",
+    "content": "",
+    "updated_version": null,
+    "references": []
+  },
+  {
+    "id" : 5,
+    "title": "Can Chatbots Boost Small Business Growth?",
+    "link": "https://beyondchats.com/blogs/chatbots-for-small-business-growth/",
+    "date": "December 8, 2023",
+    "author": "",
+    "content": "",
+    "updated_version": null,
+    "references": []
+  }
+]
